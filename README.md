@@ -57,14 +57,14 @@ customer churn/
 git clone <your-github-repo-link>
 cd customer-churn
 
-## 🌐 Access the App
+# 🌐 Access the App
 
 ## Open your browser and go to:
 
 http://127.0.0.1:8000/docs
 Use the /predict endpoint to test the churn prediction.
 
-## 📌 API Endpoint
+# 📌 API Endpoint
 POST /predict
 
 Takes customer details as input and returns:
@@ -73,7 +73,7 @@ Churn prediction
 
 Probability score
 
-## 🎯 Use Cases
+# 🎯 Use Cases
 
 Telecom customer retention analysis
 
@@ -81,7 +81,7 @@ Subscription-based business insights
 
 Churn risk identification
 
-## 📚 Learning Outcomes
+# 📚 Learning Outcomes
 
 Building ML-powered APIs
 
@@ -91,7 +91,7 @@ Handling encoders and scalers
 
 API testing with Swagger UI
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 Arpita Bagdawat
 B.Tech (AI & Data Science)
